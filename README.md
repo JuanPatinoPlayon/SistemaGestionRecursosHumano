@@ -1,31 +1,26 @@
 # Sistema de Gestión de Recursos Humanos
 
-Este proyecto fue desarrollado como entrega final para la materia de Programación Orientada a Objetos.
+Este proyecto fue desarrollado como parte de una actividad académica. Consiste en un sistema de gestión de recursos humanos que permite administrar empleados, departamentos y sus respectivos reportes.
 
-## 📌 Descripción
+## Funcionalidades principales
 
-Es una aplicación desarrollada en Java utilizando NetBeans que permite gestionar empleados y departamentos dentro de una empresa ficticia llamada **CompuWork**.
+- Agregar, eliminar y actualizar empleados.
+- Buscar empleados y departamentos.
+- Diferenciar entre empleados permanentes y temporales.
+- Interfaces gráficas con ventanas (`JFrame`, `JDialog`) desarrolladas en Java usando NetBeans.
 
-El sistema incluye funcionalidades como:
+## Entorno de desarrollo
 
-- Agregar, buscar, actualizar y eliminar empleados (permanentes y temporales).
-- Asociar empleados a departamentos.
-- Generar reportes de desempeño.
-- Interfaces gráficas usando `JFrame` y `JDialog`.
+- **Lenguaje:** Java
+- **IDE:** NetBeans 17
+- **Paradigma:** Programación Orientada a Objetos (POO)
 
-## 📁 Contenido del ZIP
+## Entrega
 
-El archivo `SistemaGestionRecursosHumano.zip` contiene:
+El archivo `.zip` contiene todo el proyecto listo para ser ejecutado en NetBeans. Está organizado y preparado para su evaluación académica.
 
-- Código fuente (`src/`)
-- Interfaces gráficas (`.form`)
-- Configuraciones del proyecto (`nbproject/`)
-- Recursos gráficos (íconos e imágenes)
-- Archivos de compilación (`build.xml`, `manifest.mf`)
+## Autor
 
-✅ **Listo para abrir directamente en NetBeans.**
-
-## 👤 Autor
-
-Juan Patiño Playon  
-Entrega Final – Abril 2025
+**Juan Patiño Playón**  
+Estudiante universitario  
+Entrega final - abril de 2025
