@@ -21,6 +21,7 @@ El archivo `.zip` contiene todo el proyecto listo para ser ejecutado en NetBeans
 
 ## Autor
 
-**Juan Patiño Playón**  
-Estudiante universitario  
+**Juan Patiño Patiño Henao** 
+Estudiante universitario 
+Iu Digital De Antioquia
 Entrega final - abril de 2025
